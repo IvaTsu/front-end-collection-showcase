@@ -1,12 +1,37 @@
 # Front-End Collection of Showcases
 
-## TODO
+> A collection of different showcases and projects.
 
-- Add proper readme
+![license](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-## Fixed-Top Navigation Bar
+The purpose of this collection is to show different front-end projects.
 
-- HTML, CSS, Pure JS.
-  [Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
+## TODO:
 
-- Pug, Sass, jQuery
+- Add LICENSE
+
+## Showcase
+
+- Fixed-Top Navigation Bar
+
+  - HTML, CSS, Pure JS.
+    [Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
+
+  - Pug, Sass, jQuery
+
+## Meta
+
+- Ivan Tsud – [@JStr00per](https://twitter.com/JStr00per) – ivts@tuta.io
+
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+
+## Built With:
+
+- [HTML5](https://www.w3.org/TR/html52/)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+- [JavaScript](https://www.javascript.com/)
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used.
+- Made with <span style="color: #e25555;">&#9829;</span> in Estonia.
