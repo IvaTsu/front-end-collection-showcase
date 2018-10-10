@@ -11,9 +11,9 @@ The purpose of this collection is to show different front-end projects.
 - Fixed-Top Navigation Bar
 
   - HTML, CSS, Pure JS.
-    [Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
 
-  - Pug, Sass, jQuery
+  * Pug, Sass, jQuery
+    [Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
 
 ## Meta
 
