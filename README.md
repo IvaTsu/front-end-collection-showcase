@@ -6,10 +6,6 @@
 
 The purpose of this collection is to show different front-end projects.
 
-## TODO:
-
-- Add LICENSE
-
 ## Showcase
 
 - Fixed-Top Navigation Bar
