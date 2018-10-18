@@ -12,8 +12,7 @@ The purpose of this collection is to show different front-end projects.
 
   - HTML, CSS, Pure JS.
 
-  * Pug, Sass, jQuery
-    [Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
+  - [Pug, Sass, jQuery. Live preview at CodePen](https://codepen.io/IvTs/full/wzZjbr/)
 
 ## Meta
 
